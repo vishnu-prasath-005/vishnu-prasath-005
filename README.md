@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <html>
  <head>
-  <style>
+  
 #hp  {
 float: right;    
  margin: 0 0 0 15px;
-   }</style>
+   }
  </head>
  <body>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="200" height="200" id="hp"/>
