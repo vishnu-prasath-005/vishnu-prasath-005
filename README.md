@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a stuent of ***Kongu engineering college***. 
+I'm a stuent of ***Kongu engineering college***.                                             ![](https://www.silgoweb.fr/)                            
 Now i'm working on ***Calibraint technologies.***
 I'm currently learning `JAVA script`.
 
