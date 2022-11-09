@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50%" />
 </div
  
   
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
                     Linked : [Linked in ](https://www.linkedin.com/in/vishnu-prasath-s-709593223)
  
-                     Email  : vihnu2032002@gmail.com               
+                    Email  : vihnu2032002@gmail.com               
