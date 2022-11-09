@@ -1,5 +1,4 @@
 ### Hai I'm VISHNU...!
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 **vishnu-prasath-005/vishnu-prasath-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
