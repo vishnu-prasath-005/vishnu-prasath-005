@@ -18,6 +18,8 @@ I'm a stuent of ***Kongu engineering college***.
 Now i'm working on ***Calibraint technologies.***
 I'm currently learning `JAVA script`.
 
+SKILL : C/HTML/JAVA/JAVASCRIPT/MYSQL
+
 📫 How to reach me:
 
  [Linked in ](https://www.linkedin.com/in/vishnu-prasath-s-709593223)
