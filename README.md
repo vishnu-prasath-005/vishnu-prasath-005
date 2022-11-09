@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<div id="header" align="center" flaot="right" margin="0 0 0 15px">
+<div id="header"  float="right" margin="0 0 0 15px">
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
 </div
