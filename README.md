@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#hp  {
+float: right;    
+ margin: 0 0 0 15px;
+}
+
 <div id="header" float:right>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" i="hp"/>
 </div>
 
 I'm a stuent of ***Kongu engineering college***.                                                                         
