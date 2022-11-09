@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  
   
 I'm a stuent of ***Kongu engineering college***.                                                                         
-Now i'm working on ***Calibraint technologies.***
+Now i'm working on ***Calibraint technologies***.
 I'm currently learning `JAVA script`.
 
 SKILLS : C/HTML/JAVA/JAVASCRIPT/MYSQL
