@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="300" height="300" align ="center" />
+<div id="header" align="center" flaot="right" margin="0 0 0 15px">
 
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
+</div
 
 I'm a stuent of ***Kongu engineering college***.                                                                         
 Now i'm working on ***Calibraint technologies.***
