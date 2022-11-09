@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 float: right;    
  margin: 0 0 0 15px;
 }
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="200" height="200" id="hp"/>
 
-<div id="header" float:right>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" i="hp"/>
-</div>
 
 I'm a stuent of ***Kongu engineering college***.                                                                         
 Now i'm working on ***Calibraint technologies.***
