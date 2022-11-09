@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
 </div>
 
 I'm a stuent of ***Kongu engineering college***.                                                                         
 Now i'm working on ***Calibraint technologies.***
+
 I'm currently learning `JAVA script`.
 
 SKILLS : C/HTML/JAVA/JAVASCRIPT/MYSQL
