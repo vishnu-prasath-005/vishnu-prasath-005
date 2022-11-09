@@ -14,18 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
- <head>
-  
-#hp  {
-float: right;    
- margin: 0 0 0 15px;
-   }
- </head>
- <body>
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="200" height="200" id="hp"/>
-</body>
- </html>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="200" height="200" float: right  margin: 0 0 0 15px"/>
+
 
 I'm a stuent of ***Kongu engineering college***.                                                                         
 Now i'm working on ***Calibraint technologies.***
