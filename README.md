@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="200" height="200" float: "right"  margin: "0 0 0 15px"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="300" height="300" align :"center" />
 
 
 I'm a stuent of ***Kongu engineering college***.                                                                         
