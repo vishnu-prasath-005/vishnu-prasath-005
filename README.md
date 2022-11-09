@@ -18,5 +18,5 @@ I'm a stuent of ***Kongu engineering college***.
 Now i'm working on ***Calibraint technologies.***
 I'm currently learning `JAVA script`.
 📫 How to reach me:
-[*Linked in ](https://www.linkedin.com/in/vishnu-prasath-s-709593223)
-*Email : vihnu2032002@gmail.com               
+ [Linked in ](https://www.linkedin.com/in/vishnu-prasath-s-709593223)
+ Email : vihnu2032002@gmail.com               
