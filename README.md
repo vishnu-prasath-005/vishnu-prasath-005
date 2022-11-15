@@ -38,7 +38,6 @@ Now i'm working on ***Calibraint technologies***.
   
 I'm currently learning `JAVA script`.
 
-SKILLS : C/HTML/JAVA/JAVASCRIPT/MYSQL
 
 📫 How to reach me:
 
